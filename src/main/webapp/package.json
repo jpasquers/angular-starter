@@ -1,0 +1,25 @@
+{
+  "name": "angular-starter",
+  "version": "1.0.0",
+  "description": "Starter pack for angular front end application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpasquers/angular-starter.git"
+  },
+  "author": "Joseph M Pasque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpasquers/angular-starter/issues"
+  },
+  "homepage": "https://github.com/jpasquers/angular-starter#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-ui-router": "^0.3.1",
+    "bootstrap": "^3.3.7",
+    "ui-router-route-to-components": "^0.1.0"
+  }
+}
